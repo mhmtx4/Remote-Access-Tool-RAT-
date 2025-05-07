@@ -1,4 +1,3 @@
-
 # RAT Project
 
 ![RAT Project](https://img.shields.io/badge/license-MIT-blue.svg)
@@ -138,8 +137,7 @@ npm install ws express https jsonwebtoken socket.io opencv4nodejs node-keylogger
     <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
     <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
     ```
-
-- **i personally don't know what to do with this information. I'm going to assume you're a developer and you know what you're doing. If you need help with this, please let me know!**:
+- **iOS**:
   - Camera: `NSCameraUsageDescription`
   - Microphone: `NSMicrophoneUsageDescription`
   - Location: `NSLocationWhenInUseUsageDescription`
@@ -193,7 +191,7 @@ For a detailed overview, see [ARCHITECTURE.md](docs/ARCHITECTURE.md).
 This project is licensed under the MIT License. See [LICENSE](LICENSE) for details.
 
 ## Contact
-- Email: [email@example.com](mailto:email@example.com)
+- Email: baha@example.com
 - GitHub Issues: [Open an Issue](https://github.com/your-username/rat-project/issues)
 
 ## Acknowledgments
@@ -201,5 +199,3 @@ This project is licensed under the MIT License. See [LICENSE](LICENSE) for detai
 - Inspired by open-source remote access tools.
 
 **Happy Hacking! 🚀**
-```
-
